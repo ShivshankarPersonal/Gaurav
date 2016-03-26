@@ -1,0 +1,14 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.13.4",
+    "mongoose": "^4.3.7"
+  },
+  "devDependencies": {
+    "body-parser": "^1.14.2",
+    "cors": "^2.7.1",
+    "kerberos": "0.0.18",
+    "mongoose": "^4.3.7"
+  }
+}
